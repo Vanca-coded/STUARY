@@ -1,12 +1,12 @@
 [
-{"url":"Samples/AD01.wav","type":"audio","bank":"Samples","n":0},
-{"url":"Samples/AD02.wav","type":"audio","bank":"Samples","n":1},
-{"url":"Samples/AD03.wav","type":"audio","bank":"Samples","n":2},
-{"url":"Samples/AD04.wav","type":"audio","bank":"Samples","n":3},
-{"url":"Samples/AD05.wav","type":"audio","bank":"Samples","n":4},
-{"url":"Samples/AD06.wav","type":"audio","bank":"Samples","n":5},
-{"url":"Samples/AD07.wav","type":"audio","bank":"Samples","n":6},
-{"url":"Samples/AD08.wav","type":"audio","bank":"Samples","n":7},
-{"url":"Samples/AD09.wav","type":"audio","bank":"Samples","n":8},
-{"url":"Samples/AD10.wav","type":"audio","bank":"Samples","n":9}  
+{ "url":"Samples/AD01.wav","type":"audio","bank":"Samples","n":0},
+{ "url":"Samples/AD02.wav","type":"audio","bank":"Samples","n":1},
+{ "url":"Samples/AD03.wav","type":"audio","bank":"Samples","n":2},
+{ "url":"Samples/AD04.wav","type":"audio","bank":"Samples","n":3},
+{ "url":"Samples/AD05.wav","type":"audio","bank":"Samples","n":4},
+{ "url":"Samples/AD06.wav","type":"audio","bank":"Samples","n":5},
+{ "url":"Samples/AD07.wav","type":"audio","bank":"Samples","n":6},
+{ "url":"Samples/AD08.wav","type":"audio","bank":"Samples","n":7},
+{ "url":"Samples/AD09.wav","type":"audio","bank":"Samples","n":8},
+{ "url":"Samples/AD10.wav","type":"audio","bank":"Samples","n":9}  
 ]
