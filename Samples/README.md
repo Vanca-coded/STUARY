@@ -1,3 +1,3 @@
 ## Sound
 
-[Samples](samples.json)
+[Samples](README.md)
