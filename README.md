@@ -1,3 +1,3 @@
 # STUARY
 
-+ [Samples](samples.json)
++ [Samples](Samples/samples.json)
