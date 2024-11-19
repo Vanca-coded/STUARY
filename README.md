@@ -1,3 +1,3 @@
 # STUARY
 
-+ [Samples](Samples/README.md/Sound/Samples)
++ [Samples](Samples/README.md)
